@@ -9,7 +9,7 @@ import okhttp3.Response;
 
 public class TranslatorText {
     // ↓ Chave da API e localização do servidor
-    private static String key = "f932e0f0af084349bde2d605b36cf25c";
+    private static String key = "<coloca a chave aqui ó>";
     private static String location = "brazilsouth";
 
     OkHttpClient client = new OkHttpClient();
